@@ -11,8 +11,8 @@
 [* 后台开发支持岗(系统架构)](https://www.zhipin.com/job_detail/92cb57d6659d8f930XN_2tu7FVs~.html?ka=search_list_jname_5)<br>
 [* 测试支持岗](https://www.zhipin.com/job_detail/63fdbb9fc84669dc0XJz0ty0GFA~.html?ka=search_list_jname_8)<br> 
 [* 测试支持岗(渗透测试)](https://www.zhipin.com/job_detail/adb1ba4229892a2d0XN_2tu4E1M~.html?ka=search_list_jname_4)<br> 
-[* 运维支持岗（网络运维）](https://www.zhipin.com/job_detail/20d4d837435266170XJz0t25GFQ~.html?ka=search_list_jname_11)<br>
-**任职要求**
+[* 运维支持岗（网络运维）](https://www.zhipin.com/job_detail/20d4d837435266170XJz0t25GFQ~.html?ka=search_list_jname_11)<br><br> 
+**任职要求**<br> 
 * 全日制本科及以上学历<br>
 * 计算机及相关专业优先<br>
 **工作地点**：南京市秦淮区游府西街2号、南京市秦淮区长白街482号<br>
