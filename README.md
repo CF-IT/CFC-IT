@@ -23,7 +23,7 @@
 [运维支持岗（网络运维）](https://www.zhipin.com/job_detail/20d4d837435266170XJz0t25GFQ~.html?ka=search_list_jname_11)<br><br> 
 **任职要求**<br> 
 * 全日制本科及以上学历<br>
-* 计算机及相关专业优先<br><br>
+* 计算机及相关专业优先<br>
 **工作地点**<br>
 * 上海市徐家汇路518号<br>
 * 南京市秦淮区游府西街2号、南京市秦淮区长白街482号<br><br>
