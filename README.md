@@ -6,6 +6,14 @@
 **公司**：南京银行消费金融中心<br>  
 **公司介绍**：南京银行消费金融中心起源于2007年3月的零售消费信贷中心，2010年4月重组成立南京银行消费金融中心与信用卡中心（CFCC）,2014年更名为南京银行消费金融中心（CFC）。CFC是南京银行专业从事无抵押、无担保消费金融业务的总行直属经营单位，由南京银行和法国巴黎银行共同经营与管理。作为国内最早进入消费金融市场的专业机构之一，南京银行消费金融中心持续推动业务创新和技术升级，打造形成了线下直销和线上创新双引擎驱动的业务模式，先后推出了满足消费需求的“诚易贷”、基于消费场景和完全受托支付的“购易贷”以及满足客户灵活资金需求的随借随还产品“随鑫花”和“随鑫贷”，累计服务客服超1700万，品牌影响力不断提升。<br> <br> 
 **上海：岗位需求**<br>
+[* 后台开发支持岗]（https://www.zhipin.com/job_detail/0b2ed6ba33c3d53c0HR-3t29FFU~.html?ka=comp_joblist_1）<br>
+[后台开发支持岗（高级）](https://www.zhipin.com/job_detail/76c6f88ba407faed0XN40925EVc~.html?ka=comp_joblist_14)<br>
+[后台开发支持岗（数据方向）(https://www.zhipin.com/job_detail/596c484691bcfa550XNz2tS7FVQ~.html?ka=comp_joblist_10)<br>
+[系统运维（Linux系统管理）](https://www.zhipin.com/job_detail/824144dc8b7dcd411HB429S9GVI~.html?ka=comp_joblist_2)<br>
+[系统运维（网络运维）](https://www.zhipin.com/job_detail/a51fb9eeba696c8c1HB52Nq9FlM~.html?ka=comp_joblist_3)<br>
+[系统运维（系统监控）](https://www.zhipin.com/job_detail/8e378a47855550401HB52Nu1EFI~.html?ka=comp_joblist_7)<br>
+[测试支持岗](https://www.zhipin.com/job_detail/d43c49a6c98585a30HZ80t-1FlA~.html?ka=comp_joblist_13)<br>
+[需求分析支持岗](https://www.zhipin.com/job_detail/47a5ec499b22d44b0HR-39S_F1s~.html?ka=comp_joblist_4)<br><br>
 **南京：岗位需求**<br>  
 [前台开发支持岗](https://www.zhipin.com/job_detail/e6b789134fc6c7c30XJz0t21E1Y~.html?ka=search_list_jname_3)<br>
 [后台开发支持岗](https://www.zhipin.com/job_detail/f0a8db15342757fe0XJz0t2-FlM~.html?ka=search_list_jname_1)<br> 
@@ -24,5 +32,6 @@
 **企业文化**：心有多大，事业就有多大；心有多明亮，事业就有多辉煌。我们全体员工都在内心不断积聚正能量，用心对待工作，用心与人相处，用心感悟人生，关照人生三个账户，实现个人理想，成就CFC梦想。**用心，成就梦享**。<br><br>
 **公司宣传推送**:https://xmx.njcb.com.cn/<br><br>
 **简历请投递**<br>
-* 上海
-* 南京it_cfc@163.com,我们欢迎您自荐及推荐，在您投递简历的同时，请您标注简历来源于GitHub<br><br>
+* 上海yuanjiahui_cfc@163.com<br>
+* 南京it_cfc@163.com<br>
+我们欢迎您自荐及推荐，在您投递简历的同时，请您标注简历来源于GitHub<br><br>
