@@ -16,6 +16,7 @@ mail:it_cfc@163.com  (南京)
 ------
 
 **上海：岗位需求**<br>
+
 * [后台开发支持岗](https://www.zhipin.com/job_detail/0b2ed6ba33c3d53c0HR-3t29FFU~.html?ka=comp_joblist_1)<br>
 * [后台开发支持岗（高级）](https://www.zhipin.com/job_detail/76c6f88ba407faed0XN40925EVc~.html?ka=comp_joblist_14)<br>
 * [后台开发支持岗（数据方向）](https://www.zhipin.com/job_detail/596c484691bcfa550XNz2tS7FVQ~.html?ka=comp_joblist_10)<br>
@@ -26,6 +27,7 @@ mail:it_cfc@163.com  (南京)
 * [需求分析支持岗](https://www.zhipin.com/job_detail/47a5ec499b22d44b0HR-39S_F1s~.html?ka=comp_joblist_4)<br><br>
 
 **南京：岗位需求**<br>
+
 * [前台开发支持岗](https://www.zhipin.com/job_detail/e6b789134fc6c7c30XJz0t21E1Y~.html?ka=search_list_jname_3)<br>
 * [后台开发支持岗](https://www.zhipin.com/job_detail/f0a8db15342757fe0XJz0t2-FlM~.html?ka=search_list_jname_1)<br>
 * [后台开发支持岗(系统架构)](https://www.zhipin.com/job_detail/92cb57d6659d8f930XN_2tu7FVs~.html?ka=search_list_jname_5)<br>
@@ -35,10 +37,12 @@ mail:it_cfc@163.com  (南京)
 
 
 **任职要求**<br>
+
 * 全日制本科及以上学历<br>
 * 计算机及相关专业优先<br>
 
 **工作地点**<br>
+
 * 上海市徐家汇路518号<br>
 * 南京市秦淮区游府西街2号、南京市秦淮区长白街482号<br><br>
 
@@ -49,4 +53,5 @@ mail:it_cfc@163.com  (南京)
 
 * 上海yuanjiahui_cfc@163.com<br>
 * 南京it_cfc@163.com<br>
-我们欢迎您自荐及推荐，在您投递简历的同时，请您标注简历来源于GitHub<br><br>
+  我们欢迎您自荐及推荐，在您投递简历的同时，请您标注简历来源于GitHub<br><br>![](C:\Users\Administrator.DESKTOP-03BDE85\Desktop\招聘情况表\83f3cf8c23b5abd8f8e7ca0a6243c5a.jpg)
+  
