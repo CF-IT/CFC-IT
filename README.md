@@ -54,5 +54,6 @@ mail:it_cfc@163.com  (南京)
 * 上海yuanjiahui_cfc@163.com<br>
 * 南京it_cfc@163.com<br>
   我们欢迎您自荐及推荐，在您投递简历的同时，请您标注简历来源于GitHub<br><br>
-  ![](C:\Users\Administrator.DESKTOP-03BDE85\Desktop\招聘情况表\83f3cf8c23b5abd8f8e7ca0a6243c5a.jpg)
+  ![](https://github.com/CF-IT/CFC-IT/upload/master)
+  
   
