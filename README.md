@@ -56,7 +56,7 @@ mail:yuanjiahui_cfc@163.com （上海）
 * 上海yuanjiahui_cfc@163.com<br>
 
   我们欢迎您自荐及推荐，在您投递简历的同时，请您标注简历来源于GitHub<br><br>
-  ![](4c69557a3dc2de62a04d1389d5732e8.jpg)
+  ![](https://github.com/CF-IT/CFC-IT/blob/master/%E6%8B%9B%E8%81%98%E6%B5%B7%E6%8A%A5.jpg)
 
   
   
